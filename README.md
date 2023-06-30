@@ -1,7 +1,9 @@
 # PEAR-MEDIA-LLC-ASSIGNMENT
 
 
+##  <h1>SPIN WHEEL</h1>
 
+   
 -This HTML and CSS code represents a "Coupon Wheel" web application. It consists of a wheel with different coupon options that can be spun by the user. When the wheel stops spinning, a coupon is randomly selected, and the result is displayed.
 
 Here's a breakdown of the code:
